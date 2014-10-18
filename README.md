@@ -9,4 +9,6 @@ Use this iOS or Android app when you have time on your hands to explore, be surp
 
 When entering a specific perimeter around one of those beauties -- e.g., a statue, a monument, a remarkable tree, etc. -- PoiPointer will notify you, provide information and optionally guide you to the targeted place.
 
-[PoiPointer organisation home page](https://github.com/PoiPointer)
+[PoiPointer organisation GitHub repository](https://github.com/PoiPointer)
+
+[PoiPointer organisation home page](http://poipointer.github.io)
