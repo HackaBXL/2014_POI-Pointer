@@ -11,3 +11,4 @@ When entering a specific perimeter around one of those beauties -- e.g., a statu
 
 * [PoiPointer GitHub repositories](https://github.com/PoiPointer)
 * [PoiPointer home page](http://poipointer.github.io)
+* [Project overview](http://thebuildingcoder.typepad.com/blog/2014/10/poipointer-view-depth-override-and-destination-bim.html#2) on [The Building Coder](http://thebuildingcoder.typepad.com)
